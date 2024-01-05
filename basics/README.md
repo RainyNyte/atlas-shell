@@ -1,1 +1,1 @@
-Script that returns the current working directory
+Scripts that return the current working directory and list it's contents
