@@ -1,0 +1,1 @@
+Scripts to redirect and filter input and output of comands
